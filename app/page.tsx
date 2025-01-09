@@ -95,21 +95,7 @@ export default function Home() {
               </div>
             </div>
 
-            <div className="flex flex-col md:flex-row gap-4 justify-center items-center text-sm">
-              <a 
-                href="mailto:info@digitalpylot.io" 
-                className="text-gray-600 hover:text-[#5927E5] transition-colors font-medium"
-              >
-                Contact Support
-              </a>
-              <div className="hidden md:block text-gray-400">•</div>
-              <a 
-                href="https://status.digitalpylot.io" 
-                className="text-gray-600 hover:text-[#5927E5] transition-colors font-medium"
-              >
-                System Status
-              </a>
-            </div>
+        
           </div>
         </div>
       </motion.div>
